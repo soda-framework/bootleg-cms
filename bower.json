@@ -1,7 +1,9 @@
 {
   "name": "bootleg CMS",
-  "version": "0.0.1",
+  "version": "1.0",
   "authors": [
+    "Ryan Brereton-Canham <ryan@madeinkatana.com>",
+    "Jacob k <jacob@madeinkatana.com>",
     "Simon Davies <noodlewitt@gmail.com>"
   ],
   "license": "MIT",
